@@ -53,7 +53,7 @@ Achieved 97% accuracy classifying spam with Scikit-learn and NLP pipelines.
 🔍 **AI-Powered Waste Segregation (IoT)**  
 Built YOLO+Edge Impulse–based real-time object detection on ESP32-CAM.
 
----
+----
 
 ### ✨ Extras
 
