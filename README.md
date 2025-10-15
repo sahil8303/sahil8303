@@ -1,65 +1,62 @@
 <!-- GitHub Profile README for Sahil Kawadse -->
 
-<h1 align="center">Hi, I'm Sahil Kawadse 👋</h1>
+<h1 align="center">🕷️ Hi, I'm Sahil Kawadse 🕸️</h1>
 <h3 align="center">Aspiring Software Engineer | Data Science Enthusiast | Final-Year ECE Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil8303&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sahil8303&label=Profile%20views&color=red&style=flat" alt="Profile views" />
 </p>
 
-<!-- Background banner (replace src with your image path/URL) -->
-<img src="assets/banner.jpg" alt="Profile banner" width="100%" />
+<!-- 🔥 Black & Red Animated Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/6M513kq.gif" alt="Spider-Man Banner" width="100%" />
+</p>
 
-<!-- Optional subtle wave divider under the banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0f2027,50:203a43,100:2c5364&text=&section=header&fontColor=ffffff" width="100%"/>
+---
 
 ## 💡 About Me
 - 🎓 Final-year Electronics & Communication @ VIT Vellore (CGPA: 9.16)  
 - 📍 Nagpur, Maharashtra  
-- 💻 Love building intelligent systems: data, ML, automation  
+- 💻 Love building intelligent systems: Data, ML, and Automation  
 - 📬 [kawadsesahil07@gmail.com](mailto:kawadsesahil07@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/sahil-kawadse)
 
 ---
 
-## 🛠️ Tech Stack
+## 🕸️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,sqlite,git,linux,pandas,numpy,sklearn,matplotlib,jupyter,arduino" />
 </p>
 
 ---
 
-## 📈 Activity & Stats
+## 🕷️ GitHub Stats (Dark Mode + Red Theme)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil8303&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil8303&show_icons=true&theme=highcontrast&icon_color=ff0000&title_color=ff0000&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil8303&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8303&layout=compact&theme=highcontrast&title_color=ff0000&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8303&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahil8303&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sahil8303&theme=highcontrast&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## ✨ Extras
 - Outreach Head @ The Electronics Club, VIT  
-- Led automation & data insight work at MOODALE (Internship)  
+- Led Automation & Data Insight Work at MOODALE (Internship)  
 - Riviera Volunteer (top 0.4% of 25,000+ students)
 
 ---
 
 ## 📫 Let’s Connect
 <p align="center">
-  <a href="https://linkedin.com/in/sahil-kawadse"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:kawadsesahil07@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sahil8303"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
+  <a href="https://linkedin.com/in/sahil-kawadse"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ff0000" /></a>
+  <a href="mailto:kawadsesahil07@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=ff0000" /></a>
+  <a href="https://github.com/sahil8303"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=ff0000" /></a>
 </p>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2c5364,50:203a43,100:0f2027&section=footer&text=&fontColor=ffffff" width="100%"/>
+<!-- Footer wave in red -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff0000&section=footer" width="100%"/>
