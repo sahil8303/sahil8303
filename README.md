@@ -28,48 +28,60 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🌈 3D Contribution & Activity Graphs
 
 <p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8303&layout=compact&theme=tokyonight" alt="Top Languages" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil8303&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
-### 💼 Projects
+### 📊 GitHub Stats & Languages
 
-🚀 **Movie Recommender System**  
-Content-based recommender using Pandas and Scikit-learn with rich metadata filtering.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil8303&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-🛒 **Product Recommendation Engine**  
-Collaborative + content-based filtering using Scikit-learn, improved visibility by 25%.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil8303&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-📧 **Spam Mail Detection (NLP)**  
-Achieved 97% accuracy classifying spam with Scikit-learn and NLP pipelines.
+---
 
-🔍 **AI-Powered Waste Segregation (IoT)**  
-Built YOLO+Edge Impulse–based real-time object detection on ESP32-CAM.
+### 🌀 GitHub Streak & 3D Metrics
 
-----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil8303&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahil8303&theme=tokyonight" />
+</p>
+
+---
 
 ### ✨ Extras
 
 - Outreach Head @ The Electronics Club, VIT  
-- Led automation + data insight work at MOODALE during internship  
+- Led automation & data insight work at MOODALE (Internship)  
 - Selected as Riviera Volunteer (top 0.4% of 25,000+ students)  
 
 ---
 
 ### 📫 Let's Connect!
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/sahil-kawadse" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:kawadsesahil07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sahil8303" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
   </a>
 </p>
