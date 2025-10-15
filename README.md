@@ -4,12 +4,12 @@
 <h3 align="center">Aspiring Software Engineer | Data Science Enthusiast | Final-Year ECE Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil8303&label=Profile%20views&color=red&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sahil8303&label=Profile%20views&color=ff0000&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- 🔥 Black & Red Animated Banner -->
+<!-- 🕸️ Spider-Man Style Banner (reliable GitHub-hosted source) -->
 <p align="center">
-  <img src="https://i.imgur.com/6M513kq.gif" alt="Spider-Man Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated Banner" width="100%" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-## 🕷️ GitHub Stats (Dark Mode + Red Theme)
+## 🕷️ GitHub Stats (Black + Red Theme)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahil8303&show_icons=true&theme=highcontrast&icon_color=ff0000&title_color=ff0000&text_color=ffffff" alt="GitHub Stats" />
 </p>
@@ -59,4 +59,4 @@
 </p>
 
 <!-- Footer wave in red -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff0000&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ff0000&section=footer" width="100%"/>
